@@ -1,4 +1,4 @@
-# Loan-Approval-prediction-
+# Loan-Approval-prediction
 
 This project predicts whether a loan should be approved or not using Support Vector Machine (SVM), a powerful supervised machine learning algorithm. It is based on a YouTube tutorial with step-by-step explanations and enhancements documented.
 
@@ -105,7 +105,7 @@ jupyter notebook
 
 ## 🧾 Documentation
 
-A full explanation of the project is available in the `[Loan_Approval_Project_Documentation.docx](https://docs.google.com/document/d/1mFMDEeFGhyfz3_64jedTtff-CkGGJ_5-4IecIPCZrCA/edit?tab=t.0)` file, which includes step-by-step reasoning.
+A full explanation of the project is available in the [Loan_Approval_Project_Documentation](https://docs.google.com/document/d/1mFMDEeFGhyfz3_64jedTtff-CkGGJ_5-4IecIPCZrCA/edit?tab=t.0) file, which includes step-by-step reasoning.
 
 ---
 
